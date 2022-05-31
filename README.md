@@ -11,10 +11,17 @@ In order to change the input values, you need to change the values of the variab
 This can be done in this piece of code:
 
 login = 'RT'
+
 password = 'Passw_2022'
+
 name = 'Roman'
+
 country = 'Ukraine'
+
 city = 'Kyiv'
+
 card = '1234 5678 9012 3456'
+
 month = 'May'
+
 year = '2024'
