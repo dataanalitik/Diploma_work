@@ -1,8 +1,8 @@
 # WebAPI Task
 Steps for run
 
-Clone this repo to your local storage
+ 1. Clone this repo to your local storage
 
-Run pip install -r requirements.txt in terminal
+ 2. Run pip install -r requirements.txt in terminal
 
-Run behave in terminal
+ 3. Run behave in terminal
